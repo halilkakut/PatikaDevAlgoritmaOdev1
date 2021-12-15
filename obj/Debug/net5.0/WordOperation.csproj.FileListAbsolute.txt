@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\WordOperation\bin\Debug\net5.0\WordOperation.exe
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\WordOperation\bin\Debug\net5.0\WordOperation.deps.json
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\WordOperation\bin\Debug\net5.0\WordOperation.runtimeconfig.json
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\WordOperation\bin\Debug\net5.0\WordOperation.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\WordOperation\bin\Debug\net5.0\WordOperation.dll
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\WordOperation\bin\Debug\net5.0\ref\WordOperation.dll
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\WordOperation\bin\Debug\net5.0\WordOperation.pdb
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\WordOperation\obj\Debug\net5.0\WordOperation.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\WordOperation\obj\Debug\net5.0\WordOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\WordOperation\obj\Debug\net5.0\WordOperation.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\WordOperation\obj\Debug\net5.0\WordOperation.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\WordOperation\obj\Debug\net5.0\WordOperation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\WordOperation\obj\Debug\net5.0\WordOperation.dll
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\WordOperation\obj\Debug\net5.0\ref\WordOperation.dll
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\WordOperation\obj\Debug\net5.0\WordOperation.pdb
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\WordOperation\obj\Debug\net5.0\WordOperation.genruntimeconfig.cache
